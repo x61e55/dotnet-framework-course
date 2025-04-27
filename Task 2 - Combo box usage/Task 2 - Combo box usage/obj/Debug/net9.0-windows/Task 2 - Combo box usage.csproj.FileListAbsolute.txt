@@ -1,0 +1,16 @@
+E:\edge course\Task 2 - Combo box usage\Task 2 - Combo box usage\bin\Debug\net9.0-windows\Task 2 - Combo box usage.exe
+E:\edge course\Task 2 - Combo box usage\Task 2 - Combo box usage\bin\Debug\net9.0-windows\Task 2 - Combo box usage.deps.json
+E:\edge course\Task 2 - Combo box usage\Task 2 - Combo box usage\bin\Debug\net9.0-windows\Task 2 - Combo box usage.runtimeconfig.json
+E:\edge course\Task 2 - Combo box usage\Task 2 - Combo box usage\bin\Debug\net9.0-windows\Task 2 - Combo box usage.dll
+E:\edge course\Task 2 - Combo box usage\Task 2 - Combo box usage\bin\Debug\net9.0-windows\Task 2 - Combo box usage.pdb
+E:\edge course\Task 2 - Combo box usage\Task 2 - Combo box usage\obj\Debug\net9.0-windows\Task_2___Combo_box_usage.Form1.resources
+E:\edge course\Task 2 - Combo box usage\Task 2 - Combo box usage\obj\Debug\net9.0-windows\Task 2 - Combo box usage.csproj.GenerateResource.cache
+E:\edge course\Task 2 - Combo box usage\Task 2 - Combo box usage\obj\Debug\net9.0-windows\Task 2 - Combo box usage.GeneratedMSBuildEditorConfig.editorconfig
+E:\edge course\Task 2 - Combo box usage\Task 2 - Combo box usage\obj\Debug\net9.0-windows\Task 2 - Combo box usage.AssemblyInfoInputs.cache
+E:\edge course\Task 2 - Combo box usage\Task 2 - Combo box usage\obj\Debug\net9.0-windows\Task 2 - Combo box usage.AssemblyInfo.cs
+E:\edge course\Task 2 - Combo box usage\Task 2 - Combo box usage\obj\Debug\net9.0-windows\Task 2 - Combo box usage.csproj.CoreCompileInputs.cache
+E:\edge course\Task 2 - Combo box usage\Task 2 - Combo box usage\obj\Debug\net9.0-windows\Task 2 - Combo box usage.dll
+E:\edge course\Task 2 - Combo box usage\Task 2 - Combo box usage\obj\Debug\net9.0-windows\refint\Task 2 - Combo box usage.dll
+E:\edge course\Task 2 - Combo box usage\Task 2 - Combo box usage\obj\Debug\net9.0-windows\Task 2 - Combo box usage.pdb
+E:\edge course\Task 2 - Combo box usage\Task 2 - Combo box usage\obj\Debug\net9.0-windows\Task 2 - Combo box usage.genruntimeconfig.cache
+E:\edge course\Task 2 - Combo box usage\Task 2 - Combo box usage\obj\Debug\net9.0-windows\ref\Task 2 - Combo box usage.dll
