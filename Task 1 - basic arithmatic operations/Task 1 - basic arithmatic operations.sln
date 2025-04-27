@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1 - basic arithmatic operations", "Task 1 - basic arithmatic operations\Task 1 - basic arithmatic operations.csproj", "{DBCAF40D-8FF0-4914-8C3C-25E54A180F83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBCAF40D-8FF0-4914-8C3C-25E54A180F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCAF40D-8FF0-4914-8C3C-25E54A180F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCAF40D-8FF0-4914-8C3C-25E54A180F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCAF40D-8FF0-4914-8C3C-25E54A180F83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8A14581-7C33-4FCE-A8FE-DB01F8486619}
+	EndGlobalSection
+EndGlobal

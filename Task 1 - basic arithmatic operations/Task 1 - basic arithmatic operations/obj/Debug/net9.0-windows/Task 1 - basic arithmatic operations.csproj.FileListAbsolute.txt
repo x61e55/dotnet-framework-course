@@ -1,0 +1,16 @@
+E:\edge course\Task 1 - basic arithmatic operations\Task 1 - basic arithmatic operations\bin\Debug\net9.0-windows\Task 1 - basic arithmatic operations.exe
+E:\edge course\Task 1 - basic arithmatic operations\Task 1 - basic arithmatic operations\bin\Debug\net9.0-windows\Task 1 - basic arithmatic operations.deps.json
+E:\edge course\Task 1 - basic arithmatic operations\Task 1 - basic arithmatic operations\bin\Debug\net9.0-windows\Task 1 - basic arithmatic operations.runtimeconfig.json
+E:\edge course\Task 1 - basic arithmatic operations\Task 1 - basic arithmatic operations\bin\Debug\net9.0-windows\Task 1 - basic arithmatic operations.dll
+E:\edge course\Task 1 - basic arithmatic operations\Task 1 - basic arithmatic operations\bin\Debug\net9.0-windows\Task 1 - basic arithmatic operations.pdb
+E:\edge course\Task 1 - basic arithmatic operations\Task 1 - basic arithmatic operations\obj\Debug\net9.0-windows\Task_1___basic_arithmatic_operations.Form1.resources
+E:\edge course\Task 1 - basic arithmatic operations\Task 1 - basic arithmatic operations\obj\Debug\net9.0-windows\Task 1 - basic arithmatic operations.csproj.GenerateResource.cache
+E:\edge course\Task 1 - basic arithmatic operations\Task 1 - basic arithmatic operations\obj\Debug\net9.0-windows\Task 1 - basic arithmatic operations.GeneratedMSBuildEditorConfig.editorconfig
+E:\edge course\Task 1 - basic arithmatic operations\Task 1 - basic arithmatic operations\obj\Debug\net9.0-windows\Task 1 - basic arithmatic operations.AssemblyInfoInputs.cache
+E:\edge course\Task 1 - basic arithmatic operations\Task 1 - basic arithmatic operations\obj\Debug\net9.0-windows\Task 1 - basic arithmatic operations.AssemblyInfo.cs
+E:\edge course\Task 1 - basic arithmatic operations\Task 1 - basic arithmatic operations\obj\Debug\net9.0-windows\Task 1 - basic arithmatic operations.csproj.CoreCompileInputs.cache
+E:\edge course\Task 1 - basic arithmatic operations\Task 1 - basic arithmatic operations\obj\Debug\net9.0-windows\Task 1 - basic arithmatic operations.dll
+E:\edge course\Task 1 - basic arithmatic operations\Task 1 - basic arithmatic operations\obj\Debug\net9.0-windows\refint\Task 1 - basic arithmatic operations.dll
+E:\edge course\Task 1 - basic arithmatic operations\Task 1 - basic arithmatic operations\obj\Debug\net9.0-windows\Task 1 - basic arithmatic operations.pdb
+E:\edge course\Task 1 - basic arithmatic operations\Task 1 - basic arithmatic operations\obj\Debug\net9.0-windows\Task 1 - basic arithmatic operations.genruntimeconfig.cache
+E:\edge course\Task 1 - basic arithmatic operations\Task 1 - basic arithmatic operations\obj\Debug\net9.0-windows\ref\Task 1 - basic arithmatic operations.dll
