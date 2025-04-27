@@ -1,0 +1,16 @@
+E:\edge course\Task 3 - Grid box view usage\Task 3 - Grid box view usage\obj\Debug\net9.0-windows\Task_3___Grid_box_view_usage.Form1.resources
+E:\edge course\Task 3 - Grid box view usage\Task 3 - Grid box view usage\obj\Debug\net9.0-windows\Task 3 - Grid box view usage.csproj.GenerateResource.cache
+E:\edge course\Task 3 - Grid box view usage\Task 3 - Grid box view usage\obj\Debug\net9.0-windows\Task 3 - Grid box view usage.GeneratedMSBuildEditorConfig.editorconfig
+E:\edge course\Task 3 - Grid box view usage\Task 3 - Grid box view usage\obj\Debug\net9.0-windows\Task 3 - Grid box view usage.AssemblyInfoInputs.cache
+E:\edge course\Task 3 - Grid box view usage\Task 3 - Grid box view usage\obj\Debug\net9.0-windows\Task 3 - Grid box view usage.AssemblyInfo.cs
+E:\edge course\Task 3 - Grid box view usage\Task 3 - Grid box view usage\obj\Debug\net9.0-windows\Task 3 - Grid box view usage.csproj.CoreCompileInputs.cache
+E:\edge course\Task 3 - Grid box view usage\Task 3 - Grid box view usage\bin\Debug\net9.0-windows\Task 3 - Grid box view usage.exe
+E:\edge course\Task 3 - Grid box view usage\Task 3 - Grid box view usage\bin\Debug\net9.0-windows\Task 3 - Grid box view usage.deps.json
+E:\edge course\Task 3 - Grid box view usage\Task 3 - Grid box view usage\bin\Debug\net9.0-windows\Task 3 - Grid box view usage.runtimeconfig.json
+E:\edge course\Task 3 - Grid box view usage\Task 3 - Grid box view usage\bin\Debug\net9.0-windows\Task 3 - Grid box view usage.dll
+E:\edge course\Task 3 - Grid box view usage\Task 3 - Grid box view usage\bin\Debug\net9.0-windows\Task 3 - Grid box view usage.pdb
+E:\edge course\Task 3 - Grid box view usage\Task 3 - Grid box view usage\obj\Debug\net9.0-windows\Task 3 - Grid box view usage.dll
+E:\edge course\Task 3 - Grid box view usage\Task 3 - Grid box view usage\obj\Debug\net9.0-windows\refint\Task 3 - Grid box view usage.dll
+E:\edge course\Task 3 - Grid box view usage\Task 3 - Grid box view usage\obj\Debug\net9.0-windows\Task 3 - Grid box view usage.pdb
+E:\edge course\Task 3 - Grid box view usage\Task 3 - Grid box view usage\obj\Debug\net9.0-windows\Task 3 - Grid box view usage.genruntimeconfig.cache
+E:\edge course\Task 3 - Grid box view usage\Task 3 - Grid box view usage\obj\Debug\net9.0-windows\ref\Task 3 - Grid box view usage.dll

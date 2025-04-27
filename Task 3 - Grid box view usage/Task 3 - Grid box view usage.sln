@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 3 - Grid box view usage", "Task 3 - Grid box view usage\Task 3 - Grid box view usage.csproj", "{68C5A064-88C0-4CEE-B64E-922491C42D68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68C5A064-88C0-4CEE-B64E-922491C42D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C5A064-88C0-4CEE-B64E-922491C42D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C5A064-88C0-4CEE-B64E-922491C42D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C5A064-88C0-4CEE-B64E-922491C42D68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EDE8AD8-914F-40A8-9FC6-20460DB7A6EB}
+	EndGlobalSection
+EndGlobal
