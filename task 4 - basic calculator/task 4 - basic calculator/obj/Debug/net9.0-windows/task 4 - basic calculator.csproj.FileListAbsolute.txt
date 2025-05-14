@@ -1,0 +1,16 @@
+E:\edge course\task 4 - basic calculator\task 4 - basic calculator\bin\Debug\net9.0-windows\task 4 - basic calculator.exe
+E:\edge course\task 4 - basic calculator\task 4 - basic calculator\bin\Debug\net9.0-windows\task 4 - basic calculator.deps.json
+E:\edge course\task 4 - basic calculator\task 4 - basic calculator\bin\Debug\net9.0-windows\task 4 - basic calculator.runtimeconfig.json
+E:\edge course\task 4 - basic calculator\task 4 - basic calculator\bin\Debug\net9.0-windows\task 4 - basic calculator.dll
+E:\edge course\task 4 - basic calculator\task 4 - basic calculator\bin\Debug\net9.0-windows\task 4 - basic calculator.pdb
+E:\edge course\task 4 - basic calculator\task 4 - basic calculator\obj\Debug\net9.0-windows\task_4___basic_calculator.Form1.resources
+E:\edge course\task 4 - basic calculator\task 4 - basic calculator\obj\Debug\net9.0-windows\task 4 - basic calculator.csproj.GenerateResource.cache
+E:\edge course\task 4 - basic calculator\task 4 - basic calculator\obj\Debug\net9.0-windows\task 4 - basic calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\edge course\task 4 - basic calculator\task 4 - basic calculator\obj\Debug\net9.0-windows\task 4 - basic calculator.AssemblyInfoInputs.cache
+E:\edge course\task 4 - basic calculator\task 4 - basic calculator\obj\Debug\net9.0-windows\task 4 - basic calculator.AssemblyInfo.cs
+E:\edge course\task 4 - basic calculator\task 4 - basic calculator\obj\Debug\net9.0-windows\task 4 - basic calculator.csproj.CoreCompileInputs.cache
+E:\edge course\task 4 - basic calculator\task 4 - basic calculator\obj\Debug\net9.0-windows\task 4 - basic calculator.dll
+E:\edge course\task 4 - basic calculator\task 4 - basic calculator\obj\Debug\net9.0-windows\refint\task 4 - basic calculator.dll
+E:\edge course\task 4 - basic calculator\task 4 - basic calculator\obj\Debug\net9.0-windows\task 4 - basic calculator.pdb
+E:\edge course\task 4 - basic calculator\task 4 - basic calculator\obj\Debug\net9.0-windows\task 4 - basic calculator.genruntimeconfig.cache
+E:\edge course\task 4 - basic calculator\task 4 - basic calculator\obj\Debug\net9.0-windows\ref\task 4 - basic calculator.dll
