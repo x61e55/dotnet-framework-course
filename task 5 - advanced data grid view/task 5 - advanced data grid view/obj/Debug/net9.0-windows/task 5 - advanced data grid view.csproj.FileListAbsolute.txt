@@ -1,0 +1,16 @@
+E:\edge course\task 5 - advanced data grid view\task 5 - advanced data grid view\bin\Debug\net9.0-windows\task 5 - advanced data grid view.exe
+E:\edge course\task 5 - advanced data grid view\task 5 - advanced data grid view\bin\Debug\net9.0-windows\task 5 - advanced data grid view.deps.json
+E:\edge course\task 5 - advanced data grid view\task 5 - advanced data grid view\bin\Debug\net9.0-windows\task 5 - advanced data grid view.runtimeconfig.json
+E:\edge course\task 5 - advanced data grid view\task 5 - advanced data grid view\bin\Debug\net9.0-windows\task 5 - advanced data grid view.dll
+E:\edge course\task 5 - advanced data grid view\task 5 - advanced data grid view\bin\Debug\net9.0-windows\task 5 - advanced data grid view.pdb
+E:\edge course\task 5 - advanced data grid view\task 5 - advanced data grid view\obj\Debug\net9.0-windows\task_5___advanced_data_grid_view.Form1.resources
+E:\edge course\task 5 - advanced data grid view\task 5 - advanced data grid view\obj\Debug\net9.0-windows\task 5 - advanced data grid view.csproj.GenerateResource.cache
+E:\edge course\task 5 - advanced data grid view\task 5 - advanced data grid view\obj\Debug\net9.0-windows\task 5 - advanced data grid view.GeneratedMSBuildEditorConfig.editorconfig
+E:\edge course\task 5 - advanced data grid view\task 5 - advanced data grid view\obj\Debug\net9.0-windows\task 5 - advanced data grid view.AssemblyInfoInputs.cache
+E:\edge course\task 5 - advanced data grid view\task 5 - advanced data grid view\obj\Debug\net9.0-windows\task 5 - advanced data grid view.AssemblyInfo.cs
+E:\edge course\task 5 - advanced data grid view\task 5 - advanced data grid view\obj\Debug\net9.0-windows\task 5 - advanced data grid view.csproj.CoreCompileInputs.cache
+E:\edge course\task 5 - advanced data grid view\task 5 - advanced data grid view\obj\Debug\net9.0-windows\task 5 - advanced data grid view.dll
+E:\edge course\task 5 - advanced data grid view\task 5 - advanced data grid view\obj\Debug\net9.0-windows\refint\task 5 - advanced data grid view.dll
+E:\edge course\task 5 - advanced data grid view\task 5 - advanced data grid view\obj\Debug\net9.0-windows\task 5 - advanced data grid view.pdb
+E:\edge course\task 5 - advanced data grid view\task 5 - advanced data grid view\obj\Debug\net9.0-windows\task 5 - advanced data grid view.genruntimeconfig.cache
+E:\edge course\task 5 - advanced data grid view\task 5 - advanced data grid view\obj\Debug\net9.0-windows\ref\task 5 - advanced data grid view.dll
