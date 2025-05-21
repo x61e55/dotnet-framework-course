@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task 8 - text formatting", "task 8 - text formatting\task 8 - text formatting.csproj", "{6F4FB908-519D-48F5-8004-C331619A386A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F4FB908-519D-48F5-8004-C331619A386A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4FB908-519D-48F5-8004-C331619A386A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4FB908-519D-48F5-8004-C331619A386A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4FB908-519D-48F5-8004-C331619A386A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF6EDB90-BB1A-4DE8-9224-8220279CC9A4}
+	EndGlobalSection
+EndGlobal

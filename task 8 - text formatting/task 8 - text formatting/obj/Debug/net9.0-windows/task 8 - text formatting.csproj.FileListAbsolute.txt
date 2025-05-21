@@ -1,0 +1,16 @@
+C:\Users\test\source\repos\task 8 - text formatting\task 8 - text formatting\bin\Debug\net9.0-windows\task 8 - text formatting.exe
+C:\Users\test\source\repos\task 8 - text formatting\task 8 - text formatting\bin\Debug\net9.0-windows\task 8 - text formatting.deps.json
+C:\Users\test\source\repos\task 8 - text formatting\task 8 - text formatting\bin\Debug\net9.0-windows\task 8 - text formatting.runtimeconfig.json
+C:\Users\test\source\repos\task 8 - text formatting\task 8 - text formatting\bin\Debug\net9.0-windows\task 8 - text formatting.dll
+C:\Users\test\source\repos\task 8 - text formatting\task 8 - text formatting\bin\Debug\net9.0-windows\task 8 - text formatting.pdb
+C:\Users\test\source\repos\task 8 - text formatting\task 8 - text formatting\obj\Debug\net9.0-windows\task_8___text_formatting.Form1.resources
+C:\Users\test\source\repos\task 8 - text formatting\task 8 - text formatting\obj\Debug\net9.0-windows\task 8 - text formatting.csproj.GenerateResource.cache
+C:\Users\test\source\repos\task 8 - text formatting\task 8 - text formatting\obj\Debug\net9.0-windows\task 8 - text formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\source\repos\task 8 - text formatting\task 8 - text formatting\obj\Debug\net9.0-windows\task 8 - text formatting.AssemblyInfoInputs.cache
+C:\Users\test\source\repos\task 8 - text formatting\task 8 - text formatting\obj\Debug\net9.0-windows\task 8 - text formatting.AssemblyInfo.cs
+C:\Users\test\source\repos\task 8 - text formatting\task 8 - text formatting\obj\Debug\net9.0-windows\task 8 - text formatting.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\task 8 - text formatting\task 8 - text formatting\obj\Debug\net9.0-windows\task 8 - text formatting.dll
+C:\Users\test\source\repos\task 8 - text formatting\task 8 - text formatting\obj\Debug\net9.0-windows\refint\task 8 - text formatting.dll
+C:\Users\test\source\repos\task 8 - text formatting\task 8 - text formatting\obj\Debug\net9.0-windows\task 8 - text formatting.pdb
+C:\Users\test\source\repos\task 8 - text formatting\task 8 - text formatting\obj\Debug\net9.0-windows\task 8 - text formatting.genruntimeconfig.cache
+C:\Users\test\source\repos\task 8 - text formatting\task 8 - text formatting\obj\Debug\net9.0-windows\ref\task 8 - text formatting.dll
